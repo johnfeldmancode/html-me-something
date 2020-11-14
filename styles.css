@@ -9,6 +9,13 @@ body {
 .textbackground {
     background-color: rgb(216, 206, 241);
 }
+
+p::first-letter {
+      font-weight: bold;
+      color: rgb(210, 8, 250);
+      font-size: 50px;
+}
+ 
   
   h1 {
     color: rgb(170, 6, 247);
@@ -24,7 +31,7 @@ body {
   }
 
   h4 {
-    color: rgb(255, 0, 242);
+    color: rgb(111, 0, 255);
     margin-left: 70px;
     font-size: 20px;
 
@@ -51,10 +58,12 @@ body {
   }
 
   
-  p::first-letter {
+  
+
+  #storefinder {
     font-weight: bold;
-    color: rgb(210, 8, 250);
-    font-size: 50px;
+    color: rgb(111, 0, 255);
+    font-size: 30px;
   }
 
   
