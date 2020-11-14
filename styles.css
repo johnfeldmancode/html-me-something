@@ -1,0 +1,60 @@
+body {
+    background-image: url("./images/fantasy-landscape.jpg");
+     /* url("https://upload.wikimedia.org/wikipedia/commons/8/8e/Capitulo-CIX.jpg"); */
+    background-color: rgb(216, 206, 241);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 70px;
+    }
+
+.textbackground {
+    background-color: rgb(216, 206, 241);
+}
+  
+  h1 {
+    color: rgb(170, 6, 247);
+    margin-left: 70px;
+    margin-top: 70px;
+    font-size: 50px;
+  }
+
+  h3 {
+      color: rgb(111, 0, 255);
+      margin-left: 70px;
+      font-size: 30PX;
+  }
+
+  h4 {
+    color: rgb(255, 0, 242);
+    margin-left: 70px;
+    font-size: 20px;
+
+  }
+
+  p {
+      margin-left: 70px;
+      margin-right: 70px;
+      font-size: 20px;
+  }
+
+  img {
+    margin-left: 70px;
+  }
+
+  figcaption {
+      margin-left: 70px;
+    
+  }
+
+  footer {
+      background-color: rgb(209, 132, 245);
+      padding-bottom: 20px;
+  }
+
+  
+  p::first-letter {
+    font-weight: bold;
+    color: rgb(210, 8, 250);
+    font-size: 50px;
+  }
+
+  
